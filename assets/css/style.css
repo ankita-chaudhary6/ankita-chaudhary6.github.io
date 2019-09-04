@@ -558,3 +558,23 @@ html {
 }
 
 
+.project-name {
+	font-family: "Montserrat", sans-serif;
+	text-align: center !important;
+	font-size: 30px;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.project-details {
+	font-family: "Montserrat", sans-serif;
+	text-align: justify !important;
+	font-size: 16px;
+	color: white !important;
+	padding-left: 150px;
+	padding-right: 300px;
+}
+
+.carousel-inner>.item.active, .carousel-inner>.item.next.left, .carousel-inner>.item.prev.right {
+	text-align: center;
+}
